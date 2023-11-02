@@ -1,5 +1,8 @@
-### Hi there 👋
-# En contrucción 
+<div id="header" align="center">
+  <img decoding="async" src= width="800"/>
+</div>
+# ¡Hola!, Mi nombre es José Morales 👋
+
 <!--
 **jFcomb/jFcomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Sobre mí 👤
+💪En febrero de 2023 decidí dar un giro a mi carrera profesional pasando de ingeniero de servicios en instalaciones eléctricas, a iniciar un curso intensivo de 9 meses en el bootcamp de TripleTen🎓 en el área del Data Science💻, en dode he obtenido conocimientos valiosos en el área tales, como python, SQL, Pandas, Matplotlib entre otros.
+
+En el bootcamp he tenido la oportunidad de dearrollar más de 10 proyectos basados en situaciones de la vida real, aplicando desde preprocesamiento de datos, análisis exploratorio, web scraping, modelos de machine learning y redes neuronales. 
+
+:eyes:Te invito a hechar un vistazo a algunos proyectos que he realizado en mi repositorio
+
 
 
 ## Skills
