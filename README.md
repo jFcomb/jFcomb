@@ -7,7 +7,7 @@
     <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jfcomb.jfcomb1&color=00cf00" alt=""/>
 
   <h1>
-    Hola soy Francisco. ¡Encantada de conocerte! 👋
+    Hola soy Francisco. ¡Gusto de conocerte! 👋
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
   </h1>
 
