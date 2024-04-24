@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/jFcomb/jfcomb/blob/main/Data%20Scientist.png" width="800"/>
-  
+
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfcomb/)
 
   <div id="badges" align="center">
@@ -28,3 +28,6 @@ En el bootcamp he tenido la oportunidad de dearrollar más de 10 proyectos basad
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+
+
+![](https://komarev.com/ghpvc/?username=jFcomb&jfcomb=true&color=grey)
